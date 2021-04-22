@@ -21,3 +21,7 @@
 13. [gitlab 开启邮件通知](https://github.com/bingoran/Blog/issues/13)
 14. [阿里云下打包错误解决](https://github.com/bingoran/Blog/issues/14)
 15. [gitlab 内存占用过大的解决思路](https://github.com/bingoran/Blog/issues/15)
+
+## webpack5 源码解析
+1. [认识 webpack](https://github.com/bingoran/Blog/issues/16)
+2. [项目准备](https://github.com/bingoran/Blog/issues/17)
