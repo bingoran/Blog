@@ -25,3 +25,5 @@
 ## webpack5 源码解析
 1. [认识 webpack](https://github.com/bingoran/Blog/issues/16)
 2. [项目准备](https://github.com/bingoran/Blog/issues/17)
+3. [如何调试 webpack](https://github.com/bingoran/Blog/issues/18)
+4. [从 webpack 命令说起](https://github.com/bingoran/Blog/issues/19)
