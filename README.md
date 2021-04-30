@@ -30,3 +30,4 @@
 5. [webpack-cil 的职责](https://github.com/bingoran/Blog/issues/20)
 6. [构建准备](https://github.com/bingoran/Blog/issues/21)
 7. [构建准备-WebpackOptionsApply](https://github.com/bingoran/Blog/issues/22)
+8. [构建入口前篇-认识 Compiler](https://github.com/bingoran/Blog/issues/23)
